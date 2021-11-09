@@ -1,0 +1,9 @@
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.csproj.CopyComplete
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaControlador\obj\Debug\CapaControladorSeguridadHSC.pdb

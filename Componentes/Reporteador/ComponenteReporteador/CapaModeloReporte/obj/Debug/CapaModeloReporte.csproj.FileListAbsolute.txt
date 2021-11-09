@@ -1,0 +1,6 @@
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.pdb

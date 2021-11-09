@@ -1,0 +1,11 @@
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Dapper.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\System.Data.Odbc.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfoInputs.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfo.cs
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb

@@ -1,0 +1,15 @@
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.ConsultasInteligentes.resources
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.menuconsultas.resources
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaVista\obj\Debug\CapaVista.pdb

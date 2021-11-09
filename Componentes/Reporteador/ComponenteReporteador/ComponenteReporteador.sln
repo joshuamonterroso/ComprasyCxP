@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVistaReporte", "CapaVistaReporte\CapaVistaReporte.csproj", "{410FD131-52B7-40CF-893E-4A14936394B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaModeloReporte", "CapaModeloReporte\CapaModeloReporte.csproj", "{25BA50E1-8F91-4D03-A541-5F2065FF257B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaControladorReporte", "CapaControladorReporte\CapaControladorReporte.csproj", "{A39F17E0-C928-47E5-9FEE-4B323135A7C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410FD131-52B7-40CF-893E-4A14936394B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410FD131-52B7-40CF-893E-4A14936394B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410FD131-52B7-40CF-893E-4A14936394B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410FD131-52B7-40CF-893E-4A14936394B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BA50E1-8F91-4D03-A541-5F2065FF257B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BA50E1-8F91-4D03-A541-5F2065FF257B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BA50E1-8F91-4D03-A541-5F2065FF257B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BA50E1-8F91-4D03-A541-5F2065FF257B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39F17E0-C928-47E5-9FEE-4B323135A7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39F17E0-C928-47E5-9FEE-4B323135A7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39F17E0-C928-47E5-9FEE-4B323135A7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39F17E0-C928-47E5-9FEE-4B323135A7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA88873-03AD-4296-840A-003E1776BA40}
+	EndGlobalSection
+EndGlobal

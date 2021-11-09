@@ -1,0 +1,10 @@
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WIBOQ3UoG39gvcVs6m16LL72NMhshHZ6QPBhx7IbkH3TMAJhOZydzjtbbut69CBRtJbYi9iX8xALKYt5+lonOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mgado\\Desktop\\HotelSanCarlos\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgado\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\mgado\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
