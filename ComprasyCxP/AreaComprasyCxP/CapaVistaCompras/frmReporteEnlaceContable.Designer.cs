@@ -77,7 +77,7 @@ namespace CapaVistaCompras
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Name = "frmReporteEnlaceContable";
-            this.Text = "frmReporteEnlaceContable";
+            this.Text = "2520 frmReporteEnlaceContable";
             this.ResumeLayout(false);
             this.PerformLayout();
 

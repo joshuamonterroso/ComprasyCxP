@@ -52,7 +52,7 @@ namespace CapaVistaCompras
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.crystalReportViewer1);
             this.Name = "frmReporteEnlaceContabilidadE";
-            this.Text = "frmReporteEnlaceContabilidadE";
+            this.Text = "2522 frmReporteEnlaceContabilidadE";
             this.ResumeLayout(false);
 
         }
