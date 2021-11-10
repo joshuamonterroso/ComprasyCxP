@@ -139,5 +139,12 @@ namespace CapaVistaCompras
             form.MdiParent = this;
             form.Show();
         }
+
+        private void enlaceContableToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmEnlaceContableCompras formulario = new frmEnlaceContableCompras();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
     }
 }
