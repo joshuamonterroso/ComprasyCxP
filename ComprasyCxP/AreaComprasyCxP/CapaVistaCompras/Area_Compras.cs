@@ -77,117 +77,60 @@ namespace CapaVistaCompras
             formulario.Show();
         }
 
-        private void ingresarOrdenDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        private void proveedoresToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            FrmCompra formulario = new FrmCompra();
+            MantenimientoProveedores2020 formulario = new MantenimientoProveedores2020();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-        private void buscarOrdenDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        private void productoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmOrdenCompraBUSQUEDA formulario = new frmOrdenCompraBUSQUEDA();
+            MantenimientoProducto2025 formulario = new MantenimientoProducto2025();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-        private void facturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void bodegaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void ingresarFacturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmFacturaEncabezado formulario = new frmFacturaEncabezado();
+            MantenimientoBodega2030 formulario = new MantenimientoBodega2030();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-        private void buscarFacturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmFacturaEncabezadoBUSQUEDA formulario = new frmFacturaEncabezadoBUSQUEDA();
+            MantenimientoInventario2035 formulario = new MantenimientoInventario2035();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-        private void ingresarFacturaDetalleToolStripMenuItem_Click(object sender, EventArgs e)
+        private void tipoInventarioToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmFacturaDetalle formulario = new frmFacturaDetalle();
+            MantenimientoTipoInventario2040 formulario = new MantenimientoTipoInventario2040();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-        private void buscarFacturaDetalleToolStripMenuItem_Click(object sender, EventArgs e)
+        private void marcaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmFacturaDetalleBUSQUEDA formulario = new frmFacturaDetalleBUSQUEDA();
+            MantenimientoMarca2045 formulario = new MantenimientoMarca2045();
             formulario.MdiParent = this;
             formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
 
-    
-
-        private void ordenesDeCompraYFacturasToolStripMenuItem_Click(object sender, EventArgs e)
+        private void lineaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmAyudasOrdenesCompra formulario = new frmAyudasOrdenesCompra();
+            MantenimientoLinea2050 formulario = new MantenimientoLinea2050();
             formulario.MdiParent = this;
             formulario.Show();
-        }
-
-        private void ordenesDeCompraToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            FrmReportesOrdenCompra form = new FrmReportesOrdenCompra();
-            form.MdiParent = this;
-            form.Show();
-        }
-
-        private void ayudasToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void trasladoDeProductosToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            Help.ShowHelp(this, "ayudasTP/AyudaTP.chm", "/Traslado-de-Productos.html/ ");
-        }
-
-        private void trasladoDeProductoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmTrasladoProducto formulario = new frmTrasladoProducto();
-            formulario.MdiParent = this;
-            formulario.Show();
-        }
-
-        private void trasladoDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmReporteTrasladoP formulario = new frmReporteTrasladoP();
-            formulario.MdiParent = this;
-            formulario.Show();
-        }
-
-        private void enlaceContableToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void enlaceContableToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            frmEnlaceContableCompras formulario = new frmEnlaceContableCompras();
-            formulario.MdiParent = this;
-            formulario.Show();
-        }
-
-        private void enlaceContableToolStripMenuItem2_Click(object sender, EventArgs e)
-        {
-            frmAyudaEnlaceContable formulario = new frmAyudaEnlaceContable();
-            formulario.MdiParent = this;
-            formulario.Show();
-        }
-
-        private void enlaceContableToolStripMenuItem3_Click(object sender, EventArgs e)
-        {
-            frmReporteEnlaceContable formulario = new frmReporteEnlaceContable();
-            formulario.MdiParent = this;
-            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
         }
     }
 }
