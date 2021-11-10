@@ -179,6 +179,7 @@ namespace CapaVistaCompras
             this.Controls.Add(this.groupBox1);
             this.Name = "frmEnlaceContableCompras";
             this.Text = "frmEnlaceContableCompras";
+            this.Load += new System.EventHandler(this.frmEnlaceContableCompras_Load);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);
