@@ -122,6 +122,18 @@
     <Compile Include="frmOrdenCompraBUSQUEDA.Designer.cs">
       <DependentUpon>frmOrdenCompraBUSQUEDA.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmReporteEnlaceContabilidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEnlaceContabilidad.Designer.cs">
+      <DependentUpon>frmReporteEnlaceContabilidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEnlaceContabilidadE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEnlaceContabilidadE.Designer.cs">
+      <DependentUpon>frmReporteEnlaceContabilidadE.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmReporteEnlaceContable.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,6 +187,18 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="reporteEnlaceContable.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteEnlaceContable.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteEnlaceContableE.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteEnlaceContableE.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="reporteFD.cs">
       <AutoGen>True</AutoGen>
@@ -232,6 +256,12 @@
     <EmbeddedResource Include="frmOrdenCompraBUSQUEDA.resx">
       <DependentUpon>frmOrdenCompraBUSQUEDA.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEnlaceContabilidad.resx">
+      <DependentUpon>frmReporteEnlaceContabilidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEnlaceContabilidadE.resx">
+      <DependentUpon>frmReporteEnlaceContabilidadE.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmReporteEnlaceContable.resx">
       <DependentUpon>frmReporteEnlaceContable.cs</DependentUpon>
     </EmbeddedResource>
@@ -259,6 +289,14 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteEnlaceContable.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteEnlaceContable.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteEnlaceContableE.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteEnlaceContableE.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="reporteFD.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

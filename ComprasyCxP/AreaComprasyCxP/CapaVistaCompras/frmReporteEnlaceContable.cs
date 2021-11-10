@@ -16,5 +16,17 @@ namespace CapaVistaCompras
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmReporteEnlaceContabilidad form = new frmReporteEnlaceContabilidad();
+            form.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frmReporteEnlaceContabilidadE form = new frmReporteEnlaceContabilidadE();
+            form.Show();
+        }
     }
 }
