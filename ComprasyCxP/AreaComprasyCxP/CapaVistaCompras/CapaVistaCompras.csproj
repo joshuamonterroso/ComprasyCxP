@@ -80,6 +80,12 @@
     <Compile Include="FrmCompra.Designer.cs">
       <DependentUpon>FrmCompra.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmEnlaceContableCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnlaceContableCompras.designer.cs">
+      <DependentUpon>frmEnlaceContableCompras.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmFacturaDetalle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -192,6 +198,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmCompra.resx">
       <DependentUpon>FrmCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnlaceContableCompras.resx">
+      <DependentUpon>frmEnlaceContableCompras.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmFacturaDetalle.resx">
       <DependentUpon>frmFacturaDetalle.cs</DependentUpon>

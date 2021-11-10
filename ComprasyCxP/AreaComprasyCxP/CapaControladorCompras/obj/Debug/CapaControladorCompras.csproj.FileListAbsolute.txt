@@ -25,3 +25,12 @@ C:\Users\Andrea\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorC
 C:\Users\Andrea\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
 C:\Users\Andrea\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
 C:\Users\Andrea\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
