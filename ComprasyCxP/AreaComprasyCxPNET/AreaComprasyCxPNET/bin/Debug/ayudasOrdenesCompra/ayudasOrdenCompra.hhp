@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayudasOrdenCompra.chm
+Contents file=Ayudas.hhc
+Default Window=Ayudas Orden Compra
+Display compile progress=No
+Language=0x80a Español (México)
+
+[WINDOWS]
+Ayudas Orden Compra="ayudas de Ordenes de Compras y Facturas","Ayudas.hhc",,"Manual-de-Usuario-Ordenes-de-Compra.html","Manual-de-Usuario-Ordenes-de-Compra.html",,,,,0x23520,,0x387e,,,,,,,,0
+
+
+[FILES]
+Manual-de-Usuario-Ordenes-de-Compra.html
+
+[INFOTYPES]
+

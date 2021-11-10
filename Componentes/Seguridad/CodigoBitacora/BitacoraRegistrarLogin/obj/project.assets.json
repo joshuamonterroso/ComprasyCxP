@@ -94,25 +94,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mgado\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Fernando Biggs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mgado\\Desktop\\HotelSanCarlos\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+      "projectUniqueName": "D:\\N\\ComprasyCxP\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
       "projectName": "Bitacora",
-      "projectPath": "C:\\Users\\mgado\\Desktop\\HotelSanCarlos\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
-      "packagesPath": "C:\\Users\\mgado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mgado\\Desktop\\HotelSanCarlos\\ProyectoHSC22021\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\obj\\",
+      "projectPath": "D:\\N\\ComprasyCxP\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+      "packagesPath": "C:\\Users\\Fernando Biggs\\.nuget\\packages\\",
+      "outputPath": "D:\\N\\ComprasyCxP\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mgado\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Fernando Biggs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net472"
@@ -146,7 +141,7 @@
             "version": "[5.0.0, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

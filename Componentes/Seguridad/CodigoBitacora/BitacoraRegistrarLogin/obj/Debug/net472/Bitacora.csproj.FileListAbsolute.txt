@@ -9,3 +9,15 @@ C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\Cod
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.pdb
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Dapper.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\System.Data.Odbc.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.AssemblyReference.cache
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.GeneratedMSBuildEditorConfig.editorconfig
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfoInputs.cache
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfo.cs
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb

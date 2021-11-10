@@ -4,3 +4,9 @@ C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\Navegador\DL
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.dll
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\bin\Debug\CapaModeloNav.pdb
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.dll
+D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaModelo\obj\Debug\CapaModeloNav.pdb

@@ -8,3 +8,13 @@ C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\Cod
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.AssemblyReference.cache
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+D:\N\ComprasyCxP\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb

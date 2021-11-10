@@ -4,3 +4,9 @@ C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\C
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.CoreCompileInputs.cache
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.dll
 C:\Users\mgado\Desktop\HotelSanCarlos\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.pdb
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.dll
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\bin\Debug\CapaModeloReporte.pdb
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.AssemblyReference.cache
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.dll
+D:\N\ComprasyCxP\Componentes\Reporteador\ComponenteReporteador\CapaModeloReporte\obj\Debug\CapaModeloReporte.pdb

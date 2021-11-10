@@ -76,5 +76,68 @@ namespace CapaVistaCompras
             frmMIDSeguridad formulario = new frmMIDSeguridad();
             formulario.Show();
         }
+
+        private void ingresarOrdenDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmCompra formulario = new FrmCompra();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void buscarOrdenDeCompraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmOrdenCompraBUSQUEDA formulario = new frmOrdenCompraBUSQUEDA();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void facturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ingresarFacturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFacturaEncabezado formulario = new frmFacturaEncabezado();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void buscarFacturasEncabezadoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFacturaEncabezadoBUSQUEDA formulario = new frmFacturaEncabezadoBUSQUEDA();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void ingresarFacturaDetalleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFacturaDetalle formulario = new frmFacturaDetalle();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void buscarFacturaDetalleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmFacturaDetalleBUSQUEDA formulario = new frmFacturaDetalleBUSQUEDA();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+    
+
+        private void ordenesDeCompraYFacturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmAyudasOrdenesCompra formulario = new frmAyudasOrdenesCompra();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void ordenesDeCompraToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            FrmReportesOrdenCompra form = new FrmReportesOrdenCompra();
+            form.MdiParent = this;
+            form.Show();
+        }
     }
 }

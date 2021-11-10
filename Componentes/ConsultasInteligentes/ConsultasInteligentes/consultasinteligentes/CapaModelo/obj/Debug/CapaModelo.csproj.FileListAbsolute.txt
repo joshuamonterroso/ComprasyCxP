@@ -4,3 +4,8 @@ C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInt
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\mgado\Desktop\PruebaNAvegador\ProyectoHSC22021\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.dll
+D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.dll
+D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.pdb

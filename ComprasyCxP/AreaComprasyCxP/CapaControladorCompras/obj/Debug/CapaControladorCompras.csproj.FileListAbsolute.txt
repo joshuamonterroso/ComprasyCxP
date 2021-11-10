@@ -7,3 +7,12 @@ C:\Users\mgado\Desktop\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\De
 C:\Users\mgado\Desktop\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
 C:\Users\mgado\Desktop\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
 C:\Users\mgado\Desktop\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.dll
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaControladorCompras.pdb
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.dll
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\bin\Debug\CapaModeloCompras.pdb
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.AssemblyReference.cache
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CoreCompileInputs.cache
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.csproj.CopyComplete
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.dll
+D:\N\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaControladorCompras\obj\Debug\CapaControladorCompras.pdb
