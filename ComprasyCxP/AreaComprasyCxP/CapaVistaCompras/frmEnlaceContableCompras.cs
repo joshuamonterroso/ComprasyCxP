@@ -11,6 +11,7 @@ using CapaControladorCompras;
 
 namespace CapaVistaCompras
 {
+    //Arnol Veliz 0901-18-1102
     public partial class frmEnlaceContableCompras : Form
     {
         clscontrolador con = new clscontrolador();
@@ -30,30 +31,6 @@ namespace CapaVistaCompras
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                string fechaI = dateTimePicker1.Value.ToString("yyyy-MM-dd");
-                string fechaF = dateTimePicker2.Value.ToString("yyyy-MM-dd");
-                fechaHoy = dateTimePicker3.Value.ToString("yyyy-MM-dd");
-                totalSaldoDebe = calculoDebe(fechaI, fechaF);
-                totalSaldoHaber = calculoHaber(fechaI, fechaF);
-                insertar();
-                //Llenando encabezado
-                MessageBox.Show("¨Poliza de totales guardada");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error: " + ex);
-            }
-            finally
-            {
-
-            }
-
-
-        }
 
         public string calculoDebe(string fechaInicio, string fechaFinal)
         {
@@ -140,6 +117,29 @@ namespace CapaVistaCompras
 
             insertarDetalleHaber(id);
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            try
+            {
+                string fechaI = dateTimePicker1.Value.ToString("yyyy-MM-dd");
+                string fechaF = dateTimePicker2.Value.ToString("yyyy-MM-dd");
+                fechaHoy = dateTimePicker3.Value.ToString("yyyy-MM-dd");
+                totalSaldoDebe = calculoDebe(fechaI, fechaF);
+                totalSaldoHaber = calculoHaber(fechaI, fechaF);
+                insertar();
+                //Llenando encabezado
+                MessageBox.Show("¨Poliza de totales guardada");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex);
+            }
+            finally
+            {
+
+            }
         }
     }
 }

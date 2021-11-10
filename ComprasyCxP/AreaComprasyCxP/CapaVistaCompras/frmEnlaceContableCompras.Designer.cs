@@ -48,7 +48,7 @@ namespace CapaVistaCompras
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(405, 363);
+            this.button2.Location = new System.Drawing.Point(201, 363);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 11;
@@ -57,12 +57,13 @@ namespace CapaVistaCompras
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(313, 363);
+            this.button1.Location = new System.Drawing.Point(100, 363);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 10;
             this.button1.Text = "Aceptar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // groupBox2
             // 
@@ -73,7 +74,7 @@ namespace CapaVistaCompras
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.dateTimePicker3);
-            this.groupBox2.Location = new System.Drawing.Point(255, 183);
+            this.groupBox2.Location = new System.Drawing.Point(53, 170);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(291, 165);
             this.groupBox2.TabIndex = 9;
@@ -136,7 +137,7 @@ namespace CapaVistaCompras
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.dateTimePicker2);
             this.groupBox1.Controls.Add(this.dateTimePicker1);
-            this.groupBox1.Location = new System.Drawing.Point(255, 64);
+            this.groupBox1.Location = new System.Drawing.Point(53, 36);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(291, 103);
             this.groupBox1.TabIndex = 8;
@@ -172,7 +173,8 @@ namespace CapaVistaCompras
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = global::CapaVistaCompras.Properties.Resources.fondo;
+            this.ClientSize = new System.Drawing.Size(405, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
