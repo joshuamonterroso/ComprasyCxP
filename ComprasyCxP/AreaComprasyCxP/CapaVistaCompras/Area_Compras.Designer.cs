@@ -69,10 +69,12 @@ namespace CapaVistaCompras
             this.ayudasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ordenesDeCompraYFacturasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trasladoDeProductosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.txtusuario = new System.Windows.Forms.TextBox();
             this.enlaceContableToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.enlaceContableToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.txtusuario = new System.Windows.Forms.TextBox();
+            this.enlaceContableToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.enlaceContableToolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -105,14 +107,14 @@ namespace CapaVistaCompras
             // cerrarSesiónToolStripMenuItem
             // 
             this.cerrarSesiónToolStripMenuItem.Name = "cerrarSesiónToolStripMenuItem";
-            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
             this.cerrarSesiónToolStripMenuItem.Text = "Cerrar Sesión";
             this.cerrarSesiónToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesiónToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
@@ -261,7 +263,7 @@ namespace CapaVistaCompras
             this.marcaToolStripMenuItem,
             this.lineaToolStripMenuItem});
             this.proveedoresToolStripMenuItem.Name = "proveedoresToolStripMenuItem";
-            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.proveedoresToolStripMenuItem.Size = new System.Drawing.Size(127, 22);
             this.proveedoresToolStripMenuItem.Text = "Inventario";
             // 
             // proveedoresToolStripMenuItem1
@@ -326,7 +328,8 @@ namespace CapaVistaCompras
             this.reportesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ordenesDeCompraToolStripMenuItem1,
             this.facturasToolStripMenuItem,
-            this.trasladoDeProductosToolStripMenuItem});
+            this.trasladoDeProductosToolStripMenuItem,
+            this.enlaceContableToolStripMenuItem3});
             this.reportesToolStripMenuItem.Name = "reportesToolStripMenuItem";
             this.reportesToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
             this.reportesToolStripMenuItem.Text = "Reportes ";
@@ -355,7 +358,8 @@ namespace CapaVistaCompras
             // 
             this.ayudasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ordenesDeCompraYFacturasToolStripMenuItem,
-            this.trasladoDeProductosToolStripMenuItem1});
+            this.trasladoDeProductosToolStripMenuItem1,
+            this.enlaceContableToolStripMenuItem2});
             this.ayudasToolStripMenuItem.Name = "ayudasToolStripMenuItem";
             this.ayudasToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
             this.ayudasToolStripMenuItem.Text = "Ayudas";
@@ -375,15 +379,6 @@ namespace CapaVistaCompras
             this.trasladoDeProductosToolStripMenuItem1.Text = "Traslado de Productos";
             this.trasladoDeProductosToolStripMenuItem1.Click += new System.EventHandler(this.trasladoDeProductosToolStripMenuItem1_Click);
             // 
-            // txtusuario
-            // 
-            this.txtusuario.Enabled = false;
-            this.txtusuario.Location = new System.Drawing.Point(703, 0);
-            this.txtusuario.Name = "txtusuario";
-            this.txtusuario.ReadOnly = true;
-            this.txtusuario.Size = new System.Drawing.Size(100, 20);
-            this.txtusuario.TabIndex = 2;
-            // 
             // enlaceContableToolStripMenuItem
             // 
             this.enlaceContableToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -396,9 +391,32 @@ namespace CapaVistaCompras
             // enlaceContableToolStripMenuItem1
             // 
             this.enlaceContableToolStripMenuItem1.Name = "enlaceContableToolStripMenuItem1";
-            this.enlaceContableToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.enlaceContableToolStripMenuItem1.Size = new System.Drawing.Size(159, 22);
             this.enlaceContableToolStripMenuItem1.Text = "Enlace Contable";
             this.enlaceContableToolStripMenuItem1.Click += new System.EventHandler(this.enlaceContableToolStripMenuItem1_Click);
+            // 
+            // txtusuario
+            // 
+            this.txtusuario.Enabled = false;
+            this.txtusuario.Location = new System.Drawing.Point(703, 0);
+            this.txtusuario.Name = "txtusuario";
+            this.txtusuario.ReadOnly = true;
+            this.txtusuario.Size = new System.Drawing.Size(100, 20);
+            this.txtusuario.TabIndex = 2;
+            // 
+            // enlaceContableToolStripMenuItem2
+            // 
+            this.enlaceContableToolStripMenuItem2.Name = "enlaceContableToolStripMenuItem2";
+            this.enlaceContableToolStripMenuItem2.Size = new System.Drawing.Size(236, 22);
+            this.enlaceContableToolStripMenuItem2.Text = "Enlace Contable";
+            this.enlaceContableToolStripMenuItem2.Click += new System.EventHandler(this.enlaceContableToolStripMenuItem2_Click);
+            // 
+            // enlaceContableToolStripMenuItem3
+            // 
+            this.enlaceContableToolStripMenuItem3.Name = "enlaceContableToolStripMenuItem3";
+            this.enlaceContableToolStripMenuItem3.Size = new System.Drawing.Size(190, 22);
+            this.enlaceContableToolStripMenuItem3.Text = "Enlace contable";
+            this.enlaceContableToolStripMenuItem3.Click += new System.EventHandler(this.enlaceContableToolStripMenuItem3_Click);
             // 
             // Area_Compras
             // 
@@ -466,6 +484,8 @@ namespace CapaVistaCompras
         private System.Windows.Forms.ToolStripMenuItem trasladoDeProductosToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem enlaceContableToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem enlaceContableToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem enlaceContableToolStripMenuItem3;
+        private System.Windows.Forms.ToolStripMenuItem enlaceContableToolStripMenuItem2;
     }
 }
 

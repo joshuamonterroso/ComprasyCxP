@@ -68,6 +68,12 @@
     <Compile Include="Area_Compras.Designer.cs">
       <DependentUpon>Area_Compras.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmAyudaEnlaceContable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAyudaEnlaceContable.Designer.cs">
+      <DependentUpon>frmAyudaEnlaceContable.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmAyudasOrdenesCompra.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,6 +121,12 @@
     </Compile>
     <Compile Include="frmOrdenCompraBUSQUEDA.Designer.cs">
       <DependentUpon>frmOrdenCompraBUSQUEDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReporteEnlaceContable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteEnlaceContable.Designer.cs">
+      <DependentUpon>frmReporteEnlaceContable.cs</DependentUpon>
     </Compile>
     <Compile Include="frmReporteFactura.cs">
       <SubType>Form</SubType>
@@ -193,6 +205,9 @@
     <EmbeddedResource Include="Area_Compras.resx">
       <DependentUpon>Area_Compras.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmAyudaEnlaceContable.resx">
+      <DependentUpon>frmAyudaEnlaceContable.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmAyudasOrdenesCompra.resx">
       <DependentUpon>frmAyudasOrdenesCompra.cs</DependentUpon>
     </EmbeddedResource>
@@ -216,6 +231,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmOrdenCompraBUSQUEDA.resx">
       <DependentUpon>frmOrdenCompraBUSQUEDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteEnlaceContable.resx">
+      <DependentUpon>frmReporteEnlaceContable.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmReporteFactura.resx">
       <DependentUpon>frmReporteFactura.cs</DependentUpon>

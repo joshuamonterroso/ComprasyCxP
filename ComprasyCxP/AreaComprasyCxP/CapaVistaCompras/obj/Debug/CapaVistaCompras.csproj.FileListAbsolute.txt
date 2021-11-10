@@ -257,3 +257,5 @@ C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCom
 C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.dll
 C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.pdb
 C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.frmEnlaceContableCompras.resources
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.frmAyudaEnlaceContable.resources
+C:\Users\DELL\Desktop\repos\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.frmReporteEnlaceContable.resources
