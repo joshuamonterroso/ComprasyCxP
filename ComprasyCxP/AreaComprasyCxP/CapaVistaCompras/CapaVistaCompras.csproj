@@ -140,6 +140,18 @@
     <Compile Include="FrmReportesOrdenCompra.Designer.cs">
       <DependentUpon>FrmReportesOrdenCompra.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmReporteTrasladoP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReporteTrasladoP.Designer.cs">
+      <DependentUpon>frmReporteTrasladoP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrasladoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrasladoProducto.Designer.cs">
+      <DependentUpon>frmTrasladoProducto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -162,6 +174,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReportenOrdenCompra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReporteTrasladosP.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteTrasladosP.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
@@ -205,6 +223,12 @@
     <EmbeddedResource Include="FrmReportesOrdenCompra.resx">
       <DependentUpon>FrmReportesOrdenCompra.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmReporteTrasladoP.resx">
+      <DependentUpon>frmReporteTrasladoP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrasladoProducto.resx">
+      <DependentUpon>frmTrasladoProducto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -220,6 +244,10 @@
     <EmbeddedResource Include="ReportenOrdenCompra.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReportenOrdenCompra.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteTrasladosP.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteTrasladosP.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

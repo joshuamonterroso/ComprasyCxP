@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaTP.chm
+Contents file=AyudaTrasladoP.hhc
+Default Window=AyudasTrasladosP
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudasTrasladosP="Ayuda para poder manejar la plantilla de Traslados de Productos","AyudaTrasladoP.hhc",,"Traslado-de-Productos.html","Traslado-de-Productos.html","Traslado-de-Productos.html","Traslado-de-Productos","Traslado-de-Productos.html","Traslado-de-Productos",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Traslado-de-Productos.html
+
+[INFOTYPES]
+

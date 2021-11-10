@@ -114,5 +114,34 @@ namespace CapaControladorCompras
             dt.Fill(table);
             return table;
         }
+
+        //Andrea Guerra 0901-18-858
+
+        public OdbcDataReader consultar(string tabla)
+        {
+            return sn.consulta(tabla);
+        }
+
+        public OdbcDataReader insertar_traslado(string[] dato)
+        {
+            return sn.insertar_traslado(dato);
+
+        }
+
+        public OdbcDataReader llenarbodega()
+        {
+            return sn.bodega();
+
+        }
+
+        public OdbcDataReader llenarproducto()
+        {
+            return sn.productos();
+
+        }
+
+
     }
+
+
 }

@@ -139,5 +139,29 @@ namespace CapaVistaCompras
             form.MdiParent = this;
             form.Show();
         }
+
+        private void ayudasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void trasladoDeProductosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "ayudasTP/AyudaTP.chm", "/Traslado-de-Productos.html/ ");
+        }
+
+        private void trasladoDeProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTrasladoProducto formulario = new frmTrasladoProducto();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
+
+        private void trasladoDeProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmReporteTrasladoP formulario = new frmReporteTrasladoP();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
     }
 }
