@@ -9,3 +9,9 @@ D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consult
 D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.dll
 D:\N\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\ConsultasInteligentes\ConsultasInteligentes\consultasinteligentes\CapaModelo\obj\Debug\CapaModelo.pdb

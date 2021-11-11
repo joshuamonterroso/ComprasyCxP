@@ -28,3 +28,9 @@ C:\Users\DELL\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\
 C:\Users\DELL\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
 C:\Users\DELL\Desktop\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Debug\CapaModeloCompras.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\bin\Debug\CapaModeloCompras.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaModeloCompras\obj\Debug\CapaModeloCompras.pdb

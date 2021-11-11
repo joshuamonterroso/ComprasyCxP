@@ -56,6 +56,8 @@ namespace CapaVistaCompras
                 txtIDordenCompra.Text = "";
                 txtproveedores.Text = "";
                 cbmProveedores.Text = "";
+                MantenimientoMovimientos2055 formulario = new MantenimientoMovimientos2055();
+                formulario.Show();
             }
         }
 

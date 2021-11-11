@@ -82,6 +82,8 @@ namespace CapaModeloCompras
             }
         }
 
+
+
         public OdbcDataReader insertar_FacturaEncabezado(string[] datos)
         {
             try

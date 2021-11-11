@@ -18,3 +18,14 @@ D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaCont
 D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
 D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.dll
 D:\N\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.pdb

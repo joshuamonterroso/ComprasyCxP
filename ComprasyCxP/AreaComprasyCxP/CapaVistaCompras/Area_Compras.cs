@@ -189,5 +189,77 @@ namespace CapaVistaCompras
             formulario.MdiParent = this;
             formulario.Show();
         }
+
+        private void bodegaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoBodega2030 formulario = new MantenimientoBodega2030();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+
+        }
+
+        private void proveedoresToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MantenimientoProveedores2020 formulario = new MantenimientoProveedores2020();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+
+        }
+
+        private void productoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoProducto2025 formulario = new MantenimientoProducto2025();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+        }
+
+        private void inventarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoInventario2035 formulario = new MantenimientoInventario2035();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+        }
+
+        private void tipoInventarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoTipoInventario2040 formulario = new MantenimientoTipoInventario2040();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+        }
+
+        private void marcaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoMarca2045 formulario = new MantenimientoMarca2045();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+        }
+
+        private void lineaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoLinea2050 formulario = new MantenimientoLinea2050();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+        }
+
+        private void cuentasPorPagarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void movimientosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoMovimientos2055 formulario = new MantenimientoMovimientos2055();
+            formulario.MdiParent = this;
+            formulario.Show();
+            formulario.funActualizarUsuario(txtusuario.Text);
+
+        }
     }
 }

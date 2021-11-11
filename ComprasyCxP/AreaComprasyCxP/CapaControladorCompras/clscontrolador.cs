@@ -33,6 +33,7 @@ namespace CapaControladorCompras
             return sn.insertar_OrdenCompra(dato);
         }
 
+
         public OdbcDataReader llenarcboProv()
         {
             return sn.llenarcboprovCompras();

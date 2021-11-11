@@ -48,6 +48,9 @@
     <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
     <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DLLnav">
+      <HintPath>..\..\..\..\..\HotelSanCarlos\ProyectoHSC22021\Componentes\Navegador\DLLnav\DLLnav\bin\Debug\DLLnav.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
@@ -182,11 +185,89 @@
     <Compile Include="frmTrasladoProducto.Designer.cs">
       <DependentUpon>frmTrasladoProducto.cs</DependentUpon>
     </Compile>
+    <Compile Include="MantenimientoBodega2030.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoBodega2030.Designer.cs">
+      <DependentUpon>MantenimientoBodega2030.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoInventario2035.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoInventario2035.Designer.cs">
+      <DependentUpon>MantenimientoInventario2035.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoLinea2050.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoLinea2050.Designer.cs">
+      <DependentUpon>MantenimientoLinea2050.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoMarca2045.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoMarca2045.Designer.cs">
+      <DependentUpon>MantenimientoMarca2045.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoMovimientos2055.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoMovimientos2055.Designer.cs">
+      <DependentUpon>MantenimientoMovimientos2055.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoProducto2025.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoProducto2025.Designer.cs">
+      <DependentUpon>MantenimientoProducto2025.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoProveedores2020.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoProveedores2020.Designer.cs">
+      <DependentUpon>MantenimientoProveedores2020.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MantenimientoTipoInventario2040.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MantenimientoTipoInventario2040.Designer.cs">
+      <DependentUpon>MantenimientoTipoInventario2040.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="reportedebodegas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportedebodegas.Designer.cs">
+      <DependentUpon>reportedebodegas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportedeinventario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportedeinventario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportedemarca.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportedemarca.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportedeproducto.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportedeproducto.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportedeproveedores.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportedeproveedores.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="reporteEnlaceContable.cs">
       <AutoGen>True</AutoGen>
@@ -212,10 +293,64 @@
       <DependentUpon>reporteFE.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="reporteinventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteinventario.Designer.cs">
+      <DependentUpon>reporteinventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportelineaadolfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportelineaadolfo.Designer.cs">
+      <DependentUpon>reportelineaadolfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportelineadeadolfo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportelineadeadolfo.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportemarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportemarca.Designer.cs">
+      <DependentUpon>reportemarca.cs</DependentUpon>
+    </Compile>
     <Compile Include="ReportenOrdenCompra.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReportenOrdenCompra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteparabodegas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteparabodegas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteproducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteproducto.Designer.cs">
+      <DependentUpon>reporteproducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteproveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteproveedor.Designer.cs">
+      <DependentUpon>reporteproveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportetipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportetipo.Designer.cs">
+      <DependentUpon>reportetipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportetipoinventario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reportetipoinventario.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="ReporteTrasladosP.cs">
@@ -286,9 +421,52 @@
     <EmbeddedResource Include="frmTrasladoProducto.resx">
       <DependentUpon>frmTrasladoProducto.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoBodega2030.resx">
+      <DependentUpon>MantenimientoBodega2030.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoInventario2035.resx">
+      <DependentUpon>MantenimientoInventario2035.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoLinea2050.resx">
+      <DependentUpon>MantenimientoLinea2050.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoMarca2045.resx">
+      <DependentUpon>MantenimientoMarca2045.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoMovimientos2055.resx">
+      <DependentUpon>MantenimientoMovimientos2055.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoProducto2025.resx">
+      <DependentUpon>MantenimientoProducto2025.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoProveedores2020.resx">
+      <DependentUpon>MantenimientoProveedores2020.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoTipoInventario2040.resx">
+      <DependentUpon>MantenimientoTipoInventario2040.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportedebodegas.resx">
+      <DependentUpon>reportedebodegas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportedeinventario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportedeinventario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportedemarca.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportedemarca.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportedeproducto.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportedeproducto.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportedeproveedores.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportedeproveedores.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="reporteEnlaceContable.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -306,9 +484,39 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>reporteFE.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="reporteinventario.resx">
+      <DependentUpon>reporteinventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportelineaadolfo.resx">
+      <DependentUpon>reportelineaadolfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportelineadeadolfo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportelineadeadolfo.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportemarca.resx">
+      <DependentUpon>reportemarca.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ReportenOrdenCompra.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReportenOrdenCompra.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteparabodegas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteparabodegas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteproducto.resx">
+      <DependentUpon>reporteproducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteproveedor.resx">
+      <DependentUpon>reporteproveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportetipo.resx">
+      <DependentUpon>reportetipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportetipoinventario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reportetipoinventario.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="ReporteTrasladosP.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
