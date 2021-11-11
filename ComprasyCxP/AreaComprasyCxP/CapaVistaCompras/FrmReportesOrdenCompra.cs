@@ -20,7 +20,7 @@ namespace CapaVistaCompras
         private void btnReporte_Click(object sender, EventArgs e)
         {
             frmReporteOrdenCompra ordenC = new frmReporteOrdenCompra();
-            ordenC.MdiParent = this;
+            //ordenC.MdiParent = this;
             ordenC.Show();
         }
     }

@@ -262,5 +262,12 @@ namespace CapaVistaCompras
             formulario.funActualizarUsuario(txtusuario.Text);
 
         }
+
+        private void facturasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmReporteFactura formulario = new frmReporteFactura();
+            formulario.MdiParent = this;
+            formulario.Show();
+        }
     }
 }

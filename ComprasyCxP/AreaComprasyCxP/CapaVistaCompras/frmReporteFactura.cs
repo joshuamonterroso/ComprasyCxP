@@ -20,14 +20,14 @@ namespace CapaVistaCompras
         private void button1_Click(object sender, EventArgs e)
         {
             frmReporteFE form = new frmReporteFE();
-            form.MdiParent = this;
+            //form.MdiParent = this;
             form.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             frmReporteFD form = new frmReporteFD();
-            form.MdiParent = this;
+            //form.MdiParent = this;
             form.Show();
         }
     }
