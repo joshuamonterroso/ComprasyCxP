@@ -66,5 +66,10 @@ namespace CapaVistaCompras
         {
             navegador1.funSetearRBVista(rdbActivo, rdbInactivo, txtEstado);
         }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

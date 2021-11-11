@@ -12,6 +12,8 @@ namespace CapaVistaCompras
 {
     public partial class MantenimientoProveedores2020 : Form
     {
+        //Adolfo Monterroso Hizo todo este form 0901-18-50
+
         public MantenimientoProveedores2020()
         {
             InitializeComponent();

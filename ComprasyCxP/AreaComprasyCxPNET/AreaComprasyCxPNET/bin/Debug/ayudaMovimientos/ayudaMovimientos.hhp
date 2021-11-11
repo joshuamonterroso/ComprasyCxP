@@ -1,0 +1,13 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ayudaMovimientos.chm
+Contents file=ayudaMovimientos.hhc
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+
+[FILES]
+AyudaMovimientos.html
+
+[INFOTYPES]
+

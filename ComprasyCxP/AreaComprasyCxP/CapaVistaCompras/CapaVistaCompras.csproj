@@ -317,6 +317,12 @@
     <Compile Include="reportemarca.Designer.cs">
       <DependentUpon>reportemarca.cs</DependentUpon>
     </Compile>
+    <Compile Include="ReporteMovimientos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteMovimientos.Designer.cs">
+      <DependentUpon>ReporteMovimientos.cs</DependentUpon>
+    </Compile>
     <Compile Include="ReportenOrdenCompra.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -327,6 +333,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>reporteparabodegas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReporteParaMovimientos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteParaMovimientos.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="reporteproducto.cs">
@@ -497,6 +509,9 @@
     <EmbeddedResource Include="reportemarca.resx">
       <DependentUpon>reportemarca.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ReporteMovimientos.resx">
+      <DependentUpon>ReporteMovimientos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ReportenOrdenCompra.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReportenOrdenCompra.cs</LastGenOutput>
@@ -504,6 +519,10 @@
     <EmbeddedResource Include="reporteparabodegas.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>reporteparabodegas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteParaMovimientos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteParaMovimientos.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="reporteproducto.resx">
       <DependentUpon>reporteproducto.cs</DependentUpon>

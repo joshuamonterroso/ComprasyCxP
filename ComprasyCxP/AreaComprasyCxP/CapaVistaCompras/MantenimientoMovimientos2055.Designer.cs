@@ -66,6 +66,7 @@ namespace CapaVistaCompras
             this.txtId.Size = new System.Drawing.Size(100, 20);
             this.txtId.TabIndex = 1;
             this.txtId.Tag = "idMovimiento";
+            this.txtId.TextChanged += new System.EventHandler(this.txtId_TextChanged);
             // 
             // txtOrden
             // 

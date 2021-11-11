@@ -108,6 +108,7 @@ namespace CapaVistaCompras
             this.txtId.Size = new System.Drawing.Size(100, 20);
             this.txtId.TabIndex = 37;
             this.txtId.Tag = "idMarca";
+            this.txtId.TextChanged += new System.EventHandler(this.txtId_TextChanged);
             // 
             // txtNombre
             // 

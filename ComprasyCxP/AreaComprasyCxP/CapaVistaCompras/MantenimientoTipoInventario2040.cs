@@ -12,6 +12,7 @@ namespace CapaVistaCompras
 {
     public partial class MantenimientoTipoInventario2040 : Form
     {
+        //Adolfo Monterroso Realizo este form 0901-18-50
         public MantenimientoTipoInventario2040()
         {
             InitializeComponent();
@@ -64,6 +65,11 @@ namespace CapaVistaCompras
         private void txtEstado_TextChanged(object sender, EventArgs e)
         {
             navegador1.funSetearRBVista(rdbActivo, rdbInactivo, txtEstado);
+        }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

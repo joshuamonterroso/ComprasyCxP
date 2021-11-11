@@ -12,6 +12,7 @@ namespace CapaVistaCompras
 {
     public partial class MantenimientoMovimientos2055 : Form
     {
+        //Adolfo Monterroso Realizo este form 0901-18-50
         public MantenimientoMovimientos2055()
         {
             InitializeComponent();
@@ -72,6 +73,11 @@ namespace CapaVistaCompras
         private void cboOrden_SelectedIndexChanged(object sender, EventArgs e)
         {
             navegador1.funComboTextboxVista(cboOrden, txtOrden);
+        }
+
+        private void txtId_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

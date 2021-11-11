@@ -428,3 +428,4 @@ C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.reporteproducto.resources
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.reporteproveedor.resources
 C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.reportetipo.resources
+C:\Users\mgado\Desktop\RepositorioGrupal\ComprasyCxP\ComprasyCxP\AreaComprasyCxP\CapaVistaCompras\obj\Debug\CapaVistaCompras.ReporteMovimientos.resources
